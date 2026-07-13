@@ -235,4 +235,5 @@ reference/support-matrix
 :hidden:
 
 resources/license
+THOX Agent Team <thox-agent-team>
 ```
